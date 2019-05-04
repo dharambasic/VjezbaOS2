@@ -1,0 +1,11 @@
+C:\Fax\Operacijski sustavi\Priprema\Priprema\bin\Debug\netcoreapp2.1\Priprema.deps.json
+C:\Fax\Operacijski sustavi\Priprema\Priprema\bin\Debug\netcoreapp2.1\Priprema.runtimeconfig.json
+C:\Fax\Operacijski sustavi\Priprema\Priprema\bin\Debug\netcoreapp2.1\Priprema.runtimeconfig.dev.json
+C:\Fax\Operacijski sustavi\Priprema\Priprema\bin\Debug\netcoreapp2.1\Priprema.dll
+C:\Fax\Operacijski sustavi\Priprema\Priprema\bin\Debug\netcoreapp2.1\Priprema.pdb
+C:\Fax\Operacijski sustavi\Priprema\Priprema\obj\Debug\netcoreapp2.1\Priprema.csprojAssemblyReference.cache
+C:\Fax\Operacijski sustavi\Priprema\Priprema\obj\Debug\netcoreapp2.1\Priprema.csproj.CoreCompileInputs.cache
+C:\Fax\Operacijski sustavi\Priprema\Priprema\obj\Debug\netcoreapp2.1\Priprema.AssemblyInfoInputs.cache
+C:\Fax\Operacijski sustavi\Priprema\Priprema\obj\Debug\netcoreapp2.1\Priprema.AssemblyInfo.cs
+C:\Fax\Operacijski sustavi\Priprema\Priprema\obj\Debug\netcoreapp2.1\Priprema.dll
+C:\Fax\Operacijski sustavi\Priprema\Priprema\obj\Debug\netcoreapp2.1\Priprema.pdb
